@@ -3,6 +3,7 @@ Ingredients:
   - 1 lime
   - 2 tsp salt
   - Jalepeno to taste
+  - Add Salsa
 
 Instructions: 
   - cut and mash avocados
@@ -10,4 +11,5 @@ Instructions:
   - chop onion
   - squeeze limes
   - add salt
+  - Split Salsa
   - mix well
